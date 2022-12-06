@@ -19,15 +19,15 @@ Acesse o desafio clicando [aqui](https://github.com/estantevirtual/teste_ev).
 
 ## Requisitos & Funcionalidades
 ✅ Criar uma competição; <br>
-✅ Criar um atleta;
-✅ Buscar todas as competições;
-✅ Buscar todos os atletas;
-✅ Cadastrar resultados para uma competição (todos os campos são obrigatórios);
-✅ Finalizar uma competição;
-✅ Retornar o ranking da competição, exibindo a posição final de cada atleta;
-✅ A API não deve aceitar cadastros de resultados se a competição já estiver encerrada;
-✅ A API pode retornar o ranking/resultado parcial, caso a disputa ainda não estiver encerrada;
-✅ No caso da competição do lançamento de dardos, cada atleta terá 3 chances, e o resultado da competição deverá levar em conta o lançamento mais distante de cada atleta.
+✅ Criar um atleta; <br>
+✅ Buscar todas as competições; <br>
+✅ Buscar todos os atletas; <br>
+✅ Cadastrar resultados para uma competição (todos os campos são obrigatórios); <br>
+✅ Finalizar uma competição; <br>
+✅ Retornar o ranking da competição, exibindo a posição final de cada atleta; <br>
+✅ A API não deve aceitar cadastros de resultados se a competição já estiver encerrada; <br>
+✅ A API pode retornar o ranking/resultado parcial, caso a disputa ainda não estiver encerrada; <br>
+✅ No caso da competição do lançamento de dardos, cada atleta terá 3 chances, e o resultado da competição deverá levar em conta o lançamento mais distante de cada atleta. <br>
 ✅ Testes unitários realizados. 
 
 <br>
@@ -68,11 +68,11 @@ $ npm install
  ```
 
  Criar um arquivo .env e inserir os seguintes dados sensíveis: 
- ```DB_HOST = ```
- ```DB_USER = ```
-``` DB_PASS = ```
- ```DB_SCHEMA = ```
-``` DB_PORT = ```
+ ```DB_HOST = ``` <br>
+ ```DB_USER = ``` <br>
+``` DB_PASS = ``` <br>
+ ```DB_SCHEMA = ``` <br>
+``` DB_PORT = ``` 
 
 <br>
 
