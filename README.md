@@ -67,7 +67,7 @@ $ npm install
  $ npm start / npm run dev
  ```
 
- Criar um arquivo .env e inserir os seguintes dados sensíveis: 
+ Criar um arquivo .env e inserir os seguintes dados sensíveis: <br>
  ```DB_HOST = ``` <br>
  ```DB_USER = ``` <br>
 ``` DB_PASS = ``` <br>
