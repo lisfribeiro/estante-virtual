@@ -18,7 +18,7 @@ Acesse o desafio clicando [aqui](https://github.com/estantevirtual/teste_ev).
 <br>
 
 ## Requisitos & Funcionalidades
-✅ Criar uma competição;
+✅ Criar uma competição; <br>
 ✅ Criar um atleta;
 ✅ Buscar todas as competições;
 ✅ Buscar todos os atletas;
